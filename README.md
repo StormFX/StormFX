@@ -38,7 +38,7 @@ I'd like to extend my appreciation to those who've supported me in various ways.
 [GitHub]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 [PayPal]: https://www.paypal.me/stormfxi (Donate via PayPal)
 [Patreon]: https://www.patreon.com/stormfx (Become a Patron)
-[Twitter]: https://twitter.com/_stormfx (Follow on Twitter)
+[Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
 
 [World of Warcraft]: https://worldofwarcraft.com
 
