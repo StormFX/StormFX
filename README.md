@@ -1,4 +1,3 @@
-[![StormFX][PNG-Banner]][Top]
 [![Discord][SVG-Discord]][Discord]
 [![Twitter][SVG-Twitter]][Twitter]
 [![Facebook][SVG-Facebook]][Facebook]
@@ -43,8 +42,6 @@ I'd like to extend my appreciation to those who've supported me in various ways.
 [World of Warcraft]: https://worldofwarcraft.com
 
 [Images]: #
-
-[PNG-Banner]: img/Banner.png
 
 [SVG-Discord]: https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff&style=flat-square
 [SVG-Facebook]: https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=flat-square
