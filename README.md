@@ -26,6 +26,7 @@ I'm StormFX and I've been a gamer and add-on developer for decades. I'm currentl
 I'd like to extend my appreciation to those who've supported me in various ways. Thank you! <3
 
 [![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
+[![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
 
 [Links]: #
 
