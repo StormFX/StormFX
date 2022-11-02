@@ -1,9 +1,8 @@
+[![Discord][SVG-Discord]][Discord]
 [![Twitter][SVG-Twitter]][Twitter]
 [![GitHub][SVG-GitHub]][GitHub]
 [![PayPal][SVG-PayPal]][PayPal]
 [![Ko-fi][SVG-Kofi]][Kofi]
-
-[![Join the Discord](https://invidget.switchblade.xyz/DDVqkd6)][Discord]
 
 ## Welcome
 
@@ -13,8 +12,7 @@ I'm StormFX and I've been a gamer and add-on developer for decades. I'm currentl
 
 You can find my projects on the relevant project hub(s):
 
-[![Wow Projects](https://github.com/SFX-WoW.png?size=100)](https://github.com/SFX-WoW "WoW Projects")
-
+[![Wow Projects](https://github.com/SFX-WoW.png?size=100)](https://github.com/SFX-WoW "WoW Project Hub")
 
 ## Supporters
 
@@ -24,9 +22,7 @@ I'd like to extend my appreciation to those who've supported me in various ways.
 [![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
 [![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
 
-[Links]: #
-
-[Top]: #Top
+[//]: # (Links)
 
 [Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
 [Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
@@ -36,7 +32,7 @@ I'd like to extend my appreciation to those who've supported me in various ways.
 
 [World of Warcraft]: https://worldofwarcraft.com
 
-[Images]: #
+[//]: # (Images)
 
 [SVG-Discord]: https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff&style=flat-square
 [SVG-Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square
