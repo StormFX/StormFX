@@ -25,7 +25,7 @@ I'd like to extend my appreciation to those who've supported me in various ways.
 
 [//]: # (Links)
 
-[Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
+[Discord]: https://discord.gg/7MTWRgDzz8 (Join the Discord)
 [Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
 [GitHub]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 [PayPal]: https://www.paypal.me/stormfxi (Donate via PayPal)
