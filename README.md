@@ -16,12 +16,13 @@ You can find my projects on the relevant project hub(s):
 
 ## Supporters
 
-I'd like to extend my appreciation to those who've supported me in various ways. Thank you! <3
+I'd like to extend my appreciation to those who've supported me in various ways. Thank you! :heart:
 
 [![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
 [![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
-[![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
+[![Mayron](https://github.com/Mayron.png?size=50)](https://github.com/Mayron "Mayron")
 <a href="https://github.com/Qissi"><img src="https://github.com/identicons/Qissi.png" height="50" width="50" title="Qissi"></a>
+[![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
 
 [//]: # (Links)
 
