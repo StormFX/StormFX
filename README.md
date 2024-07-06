@@ -18,6 +18,7 @@ You can find my projects on the relevant project hub(s):
 
 I'd like to extend my appreciation to those who've supported me in various ways. Thank you! :heart:
 
+<a href="https://github.com/zofia1347"><img src="https://github.com/identicons/zofia1347.png" height="50" width="50" title="Aevari"></a>
 [![S9Th](https://github.com/S9Th.png?size=50)](https://github.com/s9th "S9Th")
 [![Amenitra](https://github.com/AmenitradieDruidin.png?size=50)](https://github.com/AmenitradieDruidin "Amenitra")
 [![Mayron](https://github.com/Mayron.png?size=50)](https://github.com/Mayron "Mayron")
