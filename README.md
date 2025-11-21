@@ -24,6 +24,9 @@ I'd like to extend my appreciation to those who've supported me in various ways.
 [![Mayron](https://github.com/Mayron.png?size=50)](https://github.com/Mayron "Mayron")
 <a href="https://github.com/Qissi"><img src="https://github.com/identicons/Qissi.png" height="50" width="50" title="Qissi"></a>
 [![Stormseer](https://github.com/Stormseer.png?size=50)](https://github.com/Stormseer "Stormseer")
+<a href="https://github.com/sandtrout-github"><img src="https://github.com/identicons/sandtrout-github.png" height="50" width="50" title="SandTrout"></a>
+
+- ElectricPulse
 
 [//]: # (Links)
 
